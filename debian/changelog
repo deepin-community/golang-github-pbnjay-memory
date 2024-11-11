@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-pbnjay-memory (0.0~git20210728.7b4eea6-2) unstable; urgency=medium
 
-  * Initial release
+  * Re-upload as source only
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Daniel Milde <daniel@milde.cz>  Tue, 01 Mar 2022 23:17:29 +0100
+
+golang-github-pbnjay-memory (0.0~git20210728.7b4eea6-1) unstable; urgency=medium
+
+  * Initial release (Closes: 1005384)
+
+ -- Daniel Milde <daniel@milde.cz>  Sat, 12 Feb 2022 16:46:57 +0100
